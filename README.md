@@ -1,14 +1,11 @@
-# RecoverySuite
-A simple Recovery Project i made, i've been using for more than 2 years, or maybe less, can't remember now.
+# Monayzera Menu
+A custom menu for GTA 5 created for entertainment and learning purposes. 
+This project was developed to explore and understand the game's mechanics, providing insights into its structure and scripting. 
+It serves as a tool for experimentation, allowing users to test different features and enhance their knowledge of the game’s engine.
 
-Anyway, it should include a lot of cool stuff if you like recovery, the classic (and probably detected?) casino method but with some cool upgrades (like the Trigger Transaction one) and some cool stuff included with the unlock options, try it!
+Note: This menu is intended solely for educational and recreational use, with no intention of disrupting others' gameplay experience.
 
-# Why releasing it?
+# Credits
 
-I, uhh, i'm tired of playing GTA since what's more popular are kicks and crashes, well, the community changed, i miss the old 2013 times when everything was about recovery.
+Thanks Jonaaa20 for the base of the menu <3
 
-...anyway, it's fully updated and it should work fine but i won't update this repository when the next update comes out so, study the code, i know you can do it, it's easy, and i hope someone will do a better recovery than i did, thanks for tuning in and good luck!
-
-# Warning
-
-Careful, some people are selling this source for 500$ and, some skid P2Cs (e.g [NewWay](https://imgur.com/a/7MiSmwz) and [NEOROX](https://imgur.com/a/163aPSc)) also stole some features from this source and is also selling it, this source (even if it's outdated), it's free and for personal use, if you paid for it, get your money back!
